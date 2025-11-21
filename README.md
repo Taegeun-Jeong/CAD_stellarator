@@ -14,22 +14,22 @@ The model serves as a physical visualization tool for understanding:
 
 Below are the exported CAD views of the stellarator prototype.
 
-### **Top View**
-![Top View](images/SNUTELLAR_top.png)
+### Top & Upper–Front
+<p align="center">
+  <img src="images/SNUTELLAR_top.png" width="42%" />
+  <img src="images/SNUTELLAR_upper-front.png" width="42%" />
+</p>
 
-### **Upper–Front View**
-![Upper Front](images/SNUTELLAR_upper-front.png)
+### Upper–Left & Front
+<p align="center">
+  <img src="images/SNUTELLAR_upper_left.png" width="42%" />
+  <img src="images/SNUTELLAR_front.png" width="42%" />
+</p>
 
-### **Upper–Left View**
-![Upper Left](images/SNUTELLAR_upper_left.png)
-
-### **Front View**
-![Front](images/SNUTELLAR_front.png)
-
-### **Side View**
-![Side](images/SNUTELLAR_side.png)
-
-### **Back View**
-![Back](images/SNUTELLAR_back.png)
+### Side & Back
+<p align="center">
+  <img src="images/SNUTELLAR_side.png" width="42%" />
+  <img src="images/SNUTELLAR_back.png" width="42%" />
+</p>
 
 ---
