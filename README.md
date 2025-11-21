@@ -33,3 +33,7 @@ Below are the exported CAD views of the stellarator prototype.
 </p>
 
 ---
+## 📦 CAD Files
+
+All STEP model files used in this project can be found in the following release:  
+[**v0.1 – CAD Stellarator STEP Models**](https://github.com/Taegeun-Jeong/CAD_stellarator/releases/tag/v0.1)
